@@ -1,4 +1,4 @@
-# Transport Optimization Project
+#  Supply Chain Distribution Optimization
 
 This project implements a linear programming model to optimize the transportation of high-performance engines from multiple manufacturers to various destination countries. The model minimizes transportation cost while meeting production, demand, and storage constraints.
 
